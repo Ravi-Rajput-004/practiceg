@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Table from './singleform';
+import Table from './single';
 
 function App() {
   return (
